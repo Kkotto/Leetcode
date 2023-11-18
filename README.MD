@@ -8,8 +8,10 @@ Every problem is described in README. Use problem's number to find its solution 
 My solution is named as ``Kkotto + problem number``. Solution suggested by Leetcode community is named
 as ``Leetcode + problem number``.
 
-Note: Leetcode requires non-static solutions. Since my solutions are run in ``public static void main(String[] args)``
+> Note: Leetcode requires non-static solutions. Since my solutions are run in ``public static void main(String[] args)``
 method they're static.
+
+> Note: Don't forget to add ``import``s to Leetcode before running code.
 
 ## Leetcode 75
 
